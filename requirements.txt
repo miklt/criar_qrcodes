@@ -2,3 +2,5 @@ qrcode[pil]
 requests
 beautifulsoup4
 pathvalidate
+olefile
+pillow
